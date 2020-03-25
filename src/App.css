@@ -1,0 +1,11 @@
+body {
+  background: url(https://i.ytimg.com/vi/Hnp38obZV_I/maxresdefault.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.App {
+  text-align:center;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
